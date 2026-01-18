@@ -1,0 +1,2 @@
+Model,Gamma,SeenAcc,UnseenAcc,JointAcc,HarmonicMeanAcc
+resnet50_pretrained_lr01_bs64_epochs50_gpruned50_float16,0.2,0.662269229888916,0.7766667124629021,0.688000038266182,0.7149205887546053
